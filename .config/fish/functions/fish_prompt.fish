@@ -1,0 +1,1 @@
+/home/zija/.local/share/omf/themes/spacefish/fish_prompt.fish
